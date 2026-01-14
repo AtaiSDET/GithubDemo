@@ -1,4 +1,4 @@
-package kg_simbank;
+package kg_simbank.payment;
 
 public class MastedCardPayment {
 }
